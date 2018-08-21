@@ -1,4 +1,6 @@
 # cta-with-css
+Well-crafted CTAs can boost conversion rates. Here's how to style a CTA banner only using CSS.
+It's no secret that prominent and well-crafted Calls to Action can massively improve conversions on your website.
 
 ## Tutorial		  
 For detailed instruction's, view Solodev's [Make a CTA Banner Using Only CSS](https://www.solodev.com/blog/web-design/make-a-cta-banner-using-only-css.stml) article.
